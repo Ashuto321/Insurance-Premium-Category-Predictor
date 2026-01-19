@@ -126,12 +126,8 @@ Streamlit Visualization
 <h2>🖼️ Output Preview</h2>
 
 <p>Add screenshots of the application below:</p>
-
-<!--
-<img src="images/streamlit_ui.png" width="800"/>
-<img src="images/swagger_docs.png" width="800"/>
--->
-
+<img src="OP1.png" width="800"/>
+<img src="OP2.png" width="800"/>
 <hr/>
 
 <h2>🌟 Why This Project Stands Out</h2>
