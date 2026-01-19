@@ -125,7 +125,7 @@ Streamlit Visualization
 
 <h2>🖼️ Output Preview</h2>
 
-<p>Add screenshots of the application below:</p>
+<p>Here is what our Output looks like:</p>
 <img src="OP1.png" width="800"/>
 <img src="OP2.png" width="800"/>
 <hr/>
