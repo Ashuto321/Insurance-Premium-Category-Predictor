@@ -62,6 +62,7 @@ The trained model is serialized using <strong>pickle</strong>, loaded into a
 <hr/>
  
 <h2>🔁 End-to-End Workflow</h2>
+<img width="1611" height="196" alt="image" src="https://github.com/user-attachments/assets/8b173b26-847d-49ef-a848-58792d9c2b92" />
 
 <pre>
 User Input (Streamlit UI)
