@@ -32,6 +32,7 @@ class UserInput(BaseModel):
     smoker: Annotated[bool, Field(..., description="Whether the user is a smoker or not")]
     city: Annotated[str, Field(..., description="City where the user resides")]
     occupation: Annotated[Literal['retired', 'freelancer', 'student', 'government_job', 'business_owner', 'unemployed', 'private_job'], Field(..., description="Occupation of the user")]
+    # we will create a feild validator city
     
     # now with these we have to make new features :
     #computed feild 1: bmi--------------------------------
