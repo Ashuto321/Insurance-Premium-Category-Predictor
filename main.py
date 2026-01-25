@@ -33,6 +33,10 @@ class UserInput(BaseModel):
     city: Annotated[str, Field(..., description="City where the user resides")]
     occupation: Annotated[Literal['retired', 'freelancer', 'student', 'government_job', 'business_owner', 'unemployed', 'private_job'], Field(..., description="Occupation of the user")]
     # we will create a feild validator city
+    @feild_validator
+    @classmethod
+    def city_validate(cls, value: str):
+        
     
     # now with these we have to make new features :
     #computed feild 1: bmi--------------------------------
