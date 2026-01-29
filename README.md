@@ -69,7 +69,7 @@ User Input (Streamlit UI)
 JSON Request
         ↓
 FastAPI Backend
-(Pydantic Validation)
+(Pydantic Validation)(PL)
         ↓
 Preprocessing Pipeline
         ↓
