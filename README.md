@@ -73,7 +73,7 @@ FastAPI Backend
         ↓
 Preprocessing Pipeline
         ↓
-Random Forest Model
+Random Forest Model(RFM)
         ↓
 Prediction + Confidence
         ↓
